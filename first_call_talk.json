@@ -2,7 +2,7 @@
     {
         "action": "talk",
         "voiceName": "Joey",
-        "text": "Good Morning Daniel, this is text-to-speech Call from Raymond Kin. "
-        "Your next call will be stream music as titled unchained melody. Have a nice day!"
+        "text": "Good Morning Daniel, this is text-to-speech Call from Raymond Kin. ",
+        "text": "Your next call will be stream music as titled unchained melody. Have a nice day!"
     }
 ]
