@@ -2,6 +2,7 @@
     {
         "action": "talk",
         "voiceName": "Joey",
-        "text": "Hi Daniel, this is Raymond Kin. You are listening to a text-to-speech Call made with Nexmo's Voice API"
+        "text": "Good Morning Daniel, this is text-to-speech Call from Raymond Kin. "
+        "Your next call will be stream music as titled unchained melody. Have a nice day!"
     }
 ]
