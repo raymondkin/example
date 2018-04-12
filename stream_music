@@ -1,6 +1,6 @@
 [
   {
     "action": "stream",
-    "streamUrl": ["https://acme.com/streams/music.mp3"]
+    "streamUrl": ["https://raymondkin.github.io/example/unchainedmelody.mp3"]
   }
 ]
