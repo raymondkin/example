@@ -1,10 +1,5 @@
 [
     {
-        "action": "talk",
-        "voiceName": "Joey",
-        "text": "Good Morning Daniel, this is text-to-speech Call from Raymond Kin. Have a nice day!"
-    }
-    {
         "action": "stream",
         "streamUrl": ["https://raymondkin.github.io/example/unchainedmelody.mp3"]
     }
